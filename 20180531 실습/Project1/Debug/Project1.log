@@ -1,0 +1,3 @@
+﻿  him.c
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180531 실습\project1\him.c(13): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project1.vcxproj -> K:\1학년 1학기\C프로그래밍(김영철 교수님)\기말고사\20180531 실습\Project1\Debug\Project1.exe

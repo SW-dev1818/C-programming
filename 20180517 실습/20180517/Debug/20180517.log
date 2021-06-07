@@ -1,0 +1,7 @@
+﻿  chicken.c
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180517 실습\20180517\chicken.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180517 실습\20180517\chicken.c(19): warning C4477: 'scanf' : 서식 문자열 '%5d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180517 실습\20180517\chicken.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  20180517.vcxproj -> K:\1학년 1학기\C프로그래밍(김영철 교수님)\기말고사\20180517 실습\20180517\Debug\20180517.exe

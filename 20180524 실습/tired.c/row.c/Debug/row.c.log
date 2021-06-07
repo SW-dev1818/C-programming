@@ -1,0 +1,10 @@
+﻿  eolo.c
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180524 실습\tired.c\row.c\eolo.c(16): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180524 실습\tired.c\row.c\eolo.c(17): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180524 실습\tired.c\row.c\eolo.c(18): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180524 실습\tired.c\row.c\eolo.c(19): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180524 실습\tired.c\row.c\eolo.c(20): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'short *'입니다.
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180524 실습\tired.c\row.c\eolo.c(21): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'long *'입니다.
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180524 실습\tired.c\row.c\eolo.c(22): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64 *'입니다.
+k:\1학년 1학기\c프로그래밍(김영철 교수님)\기말고사\20180524 실습\tired.c\row.c\eolo.c(23): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned int *'입니다.
+  row.c.vcxproj -> K:\1학년 1학기\C프로그래밍(김영철 교수님)\기말고사\20180524 실습\tired.c\Debug\row.c.exe
